@@ -1,0 +1,16 @@
+.Phead {
+    font-size: 2rem;
+    margin-top: 33px;
+    color: #aaaae6;
+}
+
+.firstSection_Project {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 64px 189px;
+}
+
+.Pdesc {
+    margin: 15px 0;
+}
